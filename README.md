@@ -11,6 +11,8 @@ https://nickcolumn.github.io/Flower-House-Landing-Page-RU/
 
 PS. Макет был собран моей женой для её портфеля, можно глянуть тут: https://www.behance.net/gallery/139649525/Flower-House
 
+Английскую версию можно увидеть тут: https://github.com/NickColumn/Flower-House-Landing-Page
+
 <img width="1573" alt="Screenshot 2022-12-11 at 10 35 05" src="https://user-images.githubusercontent.com/66261255/206891780-0c3df924-65b2-4632-b6eb-a1a05a592cc8.png">
 
 <img width="1576" alt="Screenshot 2022-12-11 at 10 35 17" src="https://user-images.githubusercontent.com/66261255/206891784-56f651a7-4e62-441a-baf0-e9d3c5cab4de.png">
